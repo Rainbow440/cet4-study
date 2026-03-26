@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "bb5b406caf593fb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "88d28b583783c24c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6191320758b9e99c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "四级核心词汇.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "四级核心词汇"
+            }
+          },
+          {
+            "id": "d669e739fb99c986",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "四级听力技巧.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "四级听力技巧"
+            }
+          },
+          {
+            "id": "796a8f7c630a206e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "四级写作模板.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "四级写作模板"
+            }
+          },
+          {
+            "id": "dfad99f14c17ca6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "四级 30 天备考规划.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "四级 30 天备考规划"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2893a8445503d2b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f53881c195b5f67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bf558251359e3f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "33ab62462f112df9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "02cce72a5b080b0d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "814ebca5cf6e8fec",
+    "type": "split",
+    "children": [
+      {
+        "id": "3893e04809cc8290",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dde71c3d251a0a16",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "四级 30 天备考规划.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "四级 30 天备考规划 的反向链接列表"
+            }
+          },
+          {
+            "id": "78b434afeec5da04",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "四级 30 天备考规划.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "四级 30 天备考规划 的出链列表"
+            }
+          },
+          {
+            "id": "78abdc8d692a6a26",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "61bdde64a1c4701a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "8436b224c0977e3e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "四级 30 天备考规划.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "四级 30 天备考规划 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "dfad99f14c17ca6a",
+  "lastOpenFiles": [
+    "未命名.md",
+    "四级 30 天备考规划.md",
+    "四级翻译常考主题.md",
+    "四级写作模板.md",
+    "四级阅读方法.md",
+    "四级听力技巧.md",
+    "四级核心词汇.md",
+    "Overview.md"
+  ]
+}
